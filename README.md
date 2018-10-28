@@ -45,8 +45,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * (2018-05-26) [Illuminate console applications with Laravel Zero](https://www.youtube.com/watch?v=Qc_Ae_Ps-zk)
 * (2018-02-19) [Laravel Zero 5.6 Is Now Available](https://medium.com/@nunomaduro/laravel-zero-5-6-is-now-available-3c83a6dc267f)
 * (2018-01-06) [Database Backups with Laravel Zero (Revisited)](https://medium.com/@mattkingshott/database-backups-with-laravel-zero-revisited-18d2ca6aec48)
-* (2017-12-02) [Distributing a Laravel Zero application with Docker](https://medium.com/@ilesinge/
-distributing-a-laravel-zero-application-with-docker-40a7bc412057)
+* (2017-12-02) [Distributing a Laravel Zero application with Docker](https://medium.com/@ilesinge/distributing-a-laravel-zero-application-with-docker-40a7bc412057)
 * (2017-11-26) [Laravel Zero From Scratch](https://medium.com/@nunomaduro/first-episode-of-a-brand-new-video-series-laravel-zero-from-scratch-65ecf3b0816c)
 * (2017-11-15) [Illuminate console applications with Laravel Zero](https://www.youtube.com/watch?v=JWm0NhEzSg0)
 
