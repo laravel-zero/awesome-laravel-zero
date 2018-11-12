@@ -28,6 +28,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Forget DB](https://github.com/OwenMelbz/forget-db): A simple GDPR inspired tool to anonymise confidential database data.
 * [Foundry](https://github.com/Zamerick/foundry): Use the artisan 'make' commands from laravel anywhere with Foundry!
 * [Git Review](https://github.com/mcampbell508/git-review): A tool designed for improving workflows with Git.
+* [Harbor](https://github.com/whatdafox/harbor): A CLI to generate docker-compose.yml tailored for Laravel.
 * [Hulksmash](https://github.com/macghriogair/hulksmash): Console tool to scaffold an empty PHP project.
 * [Lara Lambda](https://github.com/nsouto/lara-lambda): Laravel, Lumen or LaravelZero ready to run on AWS Lambda.
 * [Laravel Packer](https://github.com/bitfumes/laravel-packer): Awesome Command Line Tool for speeding up your package creation.
