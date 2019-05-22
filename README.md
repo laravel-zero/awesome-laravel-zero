@@ -29,6 +29,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Foundry](https://github.com/Zamerick/foundry): Use the artisan 'make' commands from laravel anywhere with Foundry!
 * [Git Review](https://github.com/mcampbell508/git-review): A tool designed for improving workflows with Git.
 * [Harbor](https://github.com/whatdafox/harbor): A CLI to generate docker-compose.yml tailored for Laravel.
+* [Hours](https://github.com/matt-allan/hours): An open source time tracker for the terminal.
 * [Hulksmash](https://github.com/macghriogair/hulksmash): Console tool to scaffold an empty PHP project.
 * [Lara Lambda](https://github.com/nsouto/lara-lambda): Laravel, Lumen or LaravelZero ready to run on AWS Lambda.
 * [Laravel Craftsman](https://github.com/mikeerickson/laravel-craftsman): Laravel Artisan on Steroids. CLI for crafting common assets with extended options and customizable templates.
