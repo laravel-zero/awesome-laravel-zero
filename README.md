@@ -43,7 +43,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Security Checker](https://github.com/mace015/security-checker): A simple tool that performs a number of checks/scans against a domain to assert its security.
 * [Toggl CLI](https://github.com/PendoNL/toggl-cli): A Toggl CLI tool.
 * [Worldcup Notifications](https://github.com/kadinho/worldcup-notifications): A project to fetch FIFA World Cup matches and send event notifications.
-* [Rave CLI](https://github.com/emmajiugo/rave-cli-php): Test all features and generate sample apps for easy integration of Rave by [Flutterwave](https://flutterwave.com) payment gateway.
+* [Flutterwave CLI](https://github.com/emmajiugo/flutterwave-cli): Test all API features and generate sample apps for easy integration of [Flutterwave](https://flutterwave.com) payment gateway.
 * [Instagram CLI](https://github.com/michelmelo/instagram-cli
 ): see and like photos and videos based on stories.
 
