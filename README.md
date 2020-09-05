@@ -34,6 +34,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Hulksmash](https://github.com/macghriogair/hulksmash): Console tool to scaffold an empty PHP project.
 * [Lara Lambda](https://github.com/nsouto/lara-lambda): Laravel, Lumen or LaravelZero ready to run on AWS Lambda.
 * [Laravel Craftsman](https://github.com/mikeerickson/laravel-craftsman): Laravel Artisan on Steroids. CLI for crafting common assets with extended options and customizable templates.
+* [zerohttpserver](https://github.com/marcocantugea/zerohttpserver): LaravelZero with thin HTTP server for REST APIs or web service
 * [Laravel Packer](https://github.com/bitfumes/laravel-packer): Awesome Command Line Tool for speeding up your package creation.
 * [Lazzier](https://github.com/eddiriarte/lazzier): A console tool that allows to perform post-deployment tasks from a yml-config.
 * [Movie CLI](https://github.com/DoanhPHAM/movie-cli): Get movies list with infomation using Laravel Zero.
