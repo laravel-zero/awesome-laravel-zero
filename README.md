@@ -37,10 +37,10 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [zerohttpserver](https://github.com/marcocantugea/zerohttpserver): LaravelZero with thin HTTP server for REST APIs or web service
 * [Laravel Packer](https://github.com/bitfumes/laravel-packer): Awesome Command Line Tool for speeding up your package creation.
 * [Lazzier](https://github.com/eddiriarte/lazzier): A console tool that allows to perform post-deployment tasks from a yml-config.
-* [Movie CLI](https://github.com/DoanhPHAM/movie-cli): Get movies list with infomation using Laravel Zero.
+* [Movie CLI](https://github.com/DoanhPHAM/movie-cli): Get movies list with information using Laravel Zero.
 * [NFL Scores](https://github.com/maxalmonte14/nfl-scores): A CLI for getting NFL games data in real-time.
 * [Porter](https://github.com/konsulting/porter): A docker based multi-site setup for local PHP development.
-* [Sage](https://github.com/ytorbyk/sage): Sage is helper for development environment on macOS.
+* [Sage](https://github.com/ytorbyk/sage): Sage is a helper for development environment on macOS.
 * [Security Checker](https://github.com/mace015/security-checker): A simple tool that performs a number of checks/scans against a domain to assert its security.
 * [Toggl CLI](https://github.com/PendoNL/toggl-cli): A Toggl CLI tool.
 * [Worldcup Notifications](https://github.com/kadinho/worldcup-notifications): A project to fetch FIFA World Cup matches and send event notifications.
