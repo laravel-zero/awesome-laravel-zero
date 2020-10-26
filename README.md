@@ -25,6 +25,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Chirp](https://github.com/gazugafan/chirp): Automatically follow Twitter users and later unfollow them if they don't follow you back.
 * [Doddns](https://github.com/jpmurray/doddns): Use Digital Ocean as a kind of dynamic DNS (ddns) provider.
 * [Forge Sites](https://github.com/justutiz/forge-sites): List all your sites hosted on Laravel Forge.
+* [Forge CLI](https://github.com/beyondcode/forge-cli): An opinionated Laravel Forge CLI tool
 * [Forge SSH Assistant](https://github.com/WackyStudio/forge-ssh-assistant): An assistant for SSH'ing into Laravel Forge servers.
 * [Forget DB](https://github.com/OwenMelbz/forget-db): A simple GDPR inspired tool to anonymise confidential database data.
 * [Foundry](https://github.com/Zamerick/foundry): Use the artisan 'make' commands from laravel anywhere with Foundry!
