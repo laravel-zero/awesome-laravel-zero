@@ -43,6 +43,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Porter](https://github.com/konsulting/porter): A docker based multi-site setup for local PHP development.
 * [Sage](https://github.com/ytorbyk/sage): Sage is a helper for development environment on macOS.
 * [Security Checker](https://github.com/mace015/security-checker): A simple tool that performs a number of checks/scans against a domain to assert its security.
+* [Termux Webzone](https://github.com/albinvar/termux-webzone): An awesome console application with plenty of useful features which can be used to build, serve and test your websites from your android phone.
 * [Toggl CLI](https://github.com/PendoNL/toggl-cli): A Toggl CLI tool.
 * [Worldcup Notifications](https://github.com/kadinho/worldcup-notifications): A project to fetch FIFA World Cup matches and send event notifications.
 * [Flutterwave CLI](https://github.com/emmajiugo/flutterwave-cli): Test all API features and generate sample apps for easy integration of [Flutterwave](https://flutterwave.com) payment gateway.
