@@ -49,6 +49,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Flutterwave CLI](https://github.com/emmajiugo/flutterwave-cli): Test all API features and generate sample apps for easy integration of [Flutterwave](https://flutterwave.com) payment gateway.
 * [Instagram CLI](https://github.com/michelmelo/instagram-cli
 ): see and like photos and videos based on stories.
+* [Tasker](https://github.com/elijahcruz12/tasker): Deploy and SSH to your server, automatically.
 
 
 ## Articles and Tutorials
