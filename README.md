@@ -47,8 +47,8 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Toggl CLI](https://github.com/PendoNL/toggl-cli): A Toggl CLI tool.
 * [Worldcup Notifications](https://github.com/kadinho/worldcup-notifications): A project to fetch FIFA World Cup matches and send event notifications.
 * [Flutterwave CLI](https://github.com/emmajiugo/flutterwave-cli): Test all API features and generate sample apps for easy integration of [Flutterwave](https://flutterwave.com) payment gateway.
-* [Instagram CLI](https://github.com/michelmelo/instagram-cli
-): see and like photos and videos based on stories.
+* [Instagram CLI](https://github.com/michelmelo/instagram-cli): see and like photos and videos based on stories.
+* [Anonfiles CLI](https://github.com/albinvar/anonfiles-cli): An awesome console application which can upload and download files using [Anonfiles](anonfiles.com) api directly from your terminal.
 
 
 ## Articles and Tutorials
