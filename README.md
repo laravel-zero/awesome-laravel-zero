@@ -49,6 +49,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Flutterwave CLI](https://github.com/emmajiugo/flutterwave-cli): Test all API features and generate sample apps for easy integration of [Flutterwave](https://flutterwave.com) payment gateway.
 * [Instagram CLI](https://github.com/michelmelo/instagram-cli): see and like photos and videos based on stories.
 * [Anonfiles CLI](https://github.com/albinvar/anonfiles-cli): An awesome console application which can upload and download files using [Anonfiles](anonfiles.com) api directly from your terminal.
+* [Music DL](https://github.com/guanguans/music-dl): Music Searcher and Downloader.
 
 
 ## Articles and Tutorials
