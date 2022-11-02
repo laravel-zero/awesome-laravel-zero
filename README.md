@@ -22,6 +22,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 ## Projects using Laravel Zero
 * [AMP validation CLI](https://github.com/jeffochoa/amp-validator): Test your Accelerated Mobile Pages right away from your terminal.
+* [Certinfo CLI](https://github.com/marco-introini/certinfo-cli): Get SSL certificate information (CN and Expiration) from a PEM or DER certificate or directory.
 * [Chirp](https://github.com/gazugafan/chirp): Automatically follow Twitter users and later unfollow them if they don't follow you back.
 * [Doddns](https://github.com/jpmurray/doddns): Use Digital Ocean as a kind of dynamic DNS (ddns) provider.
 * [Forge Sites](https://github.com/justutiz/forge-sites): List all your sites hosted on Laravel Forge.
