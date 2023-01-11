@@ -54,6 +54,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 
 
 ## Articles and Tutorials
+* (2022-08-12) [Zero Hassle CLI Application with Laravel Zero](https://laravel-news.com/zero-hassle-cli-application-with-laravel-zero)
 * (2018-10-18) [Laravel Packer and Laravel Zero | Getting started with Laravel Zero #3](https://www.youtube.com/watch?v=1TPV28QBYbs&feature=youtu.be)
 * (2018-09-16) [Laravel Zero 5.7 Is Now Available](https://medium.com/@nunomaduro/laravel-zero-5-7-is-now-available-4a263b119a8c)
 * (2018-05-26) [Illuminate console applications with Laravel Zero](https://www.youtube.com/watch?v=Qc_Ae_Ps-zk)
