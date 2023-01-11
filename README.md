@@ -2,11 +2,12 @@
     <img title="Laravel Zero" height="100" src="https://raw.githubusercontent.com/laravel-zero/docs/master/images/logo/laravel-zero-readme.png" />
 </p>
 
-## Awesome Laravel Zero [![Awesome](https://rawcdn.githack.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Laravel Zero [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to Laravel Zero
 
 ## Contribution
+
 Have you found something that make Laravel Zero more awesome? Make a PR and add it to the list!
 
 ## Table of Contents
@@ -17,10 +18,12 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 - [Looking for more?](#looking-for-more)
 
 ## Essentials
+
 * [Laravel Zero's website and documentation](https://laravel-zero.com/)
 * [Laravel Zero's GitHub organisation](https://github.com/laravel-zero/)
 
 ## Projects using Laravel Zero
+
 * [AMP validation CLI](https://github.com/jeffochoa/amp-validator): Test your Accelerated Mobile Pages right away from your terminal.
 * [Certinfo CLI](https://github.com/marco-introini/certinfo-cli): Get SSL certificate information (CN and Expiration) from a PEM or DER certificate or directory.
 * [Chirp](https://github.com/gazugafan/chirp): Automatically follow Twitter users and later unfollow them if they don't follow you back.
@@ -41,7 +44,9 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Lazzier](https://github.com/eddiriarte/lazzier): A console tool that allows to perform post-deployment tasks from a yml-config.
 * [Movie CLI](https://github.com/DoanhPHAM/movie-cli): Get movies list with information using Laravel Zero.
 * [NFL Scores](https://github.com/maxalmonte14/nfl-scores): A CLI for getting NFL games data in real-time.
+* [Oh Dear CLI](https://github.com/ohdearapp/ohdear-cli): The official CLI for [Oh Dear](https://ohdear.app).
 * [Porter](https://github.com/konsulting/porter): A docker based multi-site setup for local PHP development.
+* [Rugby Schedule](https://github.com/owenvoke/rugby-schedule): Rugby union schedules on the command-line.
 * [Sage](https://github.com/ytorbyk/sage): Sage is a helper for development environment on macOS.
 * [Security Checker](https://github.com/mace015/security-checker): A simple tool that performs a number of checks/scans against a domain to assert its security.
 * [Termux Webzone](https://github.com/albinvar/termux-webzone): An awesome console application with plenty of useful features which can be used to build, serve and test your websites from your android phone.
@@ -52,9 +57,16 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Anonfiles CLI](https://github.com/albinvar/anonfiles-cli): An awesome console application which can upload and download files using [Anonfiles](anonfiles.com) api directly from your terminal.
 * [Music DL](https://github.com/guanguans/music-dl): Music Searcher and Downloader.
 
-
 ## Articles and Tutorials
+
 * (2022-08-12) [Zero Hassle CLI Application with Laravel Zero](https://laravel-news.com/zero-hassle-cli-application-with-laravel-zero)
+* (2022-03-15) [Distributing Laravel Zero apps with Windows package managers](https://voke.dev/blog/distributing-laravel-zero-apps-with-windows-package-managers)
+* (2022-02-10) [What's new in Laravel Zero 9](https://voke.dev/blog/whats-new-in-laravel-zero-9)
+* (2021-01-13) [Distributing Laravel Zero apps with Brew](https://voke.dev/blog/distributing-laravel-zero-apps-with-brew)
+* (2020-09-10) [What's new in Laravel Zero 8](https://voke.dev/blog/whats-new-in-laravel-zero-8)
+* (2020-09-01) [Working with Pest in Laravel Zero](https://voke.dev/blog/working-with-pest-in-laravel-zero)
+* (2020-04-17) [Getting started with Laravel Zero](https://voke.dev/blog/getting-started-with-laravel-zero)
+* (2020-03-12) [What's new in Laravel Zero 7](https://voke.dev/blog/whats-new-in-laravel-zero-7)
 * (2018-10-18) [Laravel Packer and Laravel Zero | Getting started with Laravel Zero #3](https://www.youtube.com/watch?v=1TPV28QBYbs&feature=youtu.be)
 * (2018-09-16) [Laravel Zero 5.7 Is Now Available](https://medium.com/@nunomaduro/laravel-zero-5-7-is-now-available-4a263b119a8c)
 * (2018-05-26) [Illuminate console applications with Laravel Zero](https://www.youtube.com/watch?v=Qc_Ae_Ps-zk)
@@ -64,7 +76,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * (2017-11-26) [Laravel Zero From Scratch](https://medium.com/@nunomaduro/first-episode-of-a-brand-new-video-series-laravel-zero-from-scratch-65ecf3b0816c)
 * (2017-11-15) [Illuminate console applications with Laravel Zero](https://www.youtube.com/watch?v=JWm0NhEzSg0)
 
-
 ## Looking for More
+
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 * [Awesome Laravel Spark](https://github.com/jpmurray/awesome-spark)
