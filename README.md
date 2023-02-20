@@ -56,6 +56,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Instagram CLI](https://github.com/michelmelo/instagram-cli): see and like photos and videos based on stories.
 * [Anonfiles CLI](https://github.com/albinvar/anonfiles-cli): An awesome console application which can upload and download files using [Anonfiles](anonfiles.com) api directly from your terminal.
 * [Music DL](https://github.com/guanguans/music-dl): Music Searcher and Downloader.
+* [AI Commit](https://github.com/guanguans/ai-commit): Automagically generate conventional commit messages with AI.
 
 ## Articles and Tutorials
 
