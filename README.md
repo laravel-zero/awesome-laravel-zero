@@ -34,6 +34,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Forget DB](https://github.com/OwenMelbz/forget-db): A simple GDPR inspired tool to anonymise confidential database data.
 * [Foundry](https://github.com/Zamerick/foundry): Use the artisan 'make' commands from laravel anywhere with Foundry!
 * [Git Review](https://github.com/mcampbell508/git-review): A tool designed for improving workflows with Git.
+* [Google Photo CLI](https://github.com/OctopyID/GPhotoCLI): Streamlines the photo uploading process and helps you keep your photo library organized. Say goodbye to manual photo uploads and hello to efficient photo management with GPhoto.
 * [Harbor](https://github.com/whatdafox/harbor): A CLI to generate docker-compose.yml tailored for Laravel.
 * [Hours](https://github.com/matt-allan/hours): An open source time tracker for the terminal.
 * [Hulksmash](https://github.com/macghriogair/hulksmash): Console tool to scaffold an empty PHP project.
