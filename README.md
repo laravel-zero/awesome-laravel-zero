@@ -38,6 +38,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Harbor](https://github.com/whatdafox/harbor): A CLI to generate docker-compose.yml tailored for Laravel.
 * [Hours](https://github.com/matt-allan/hours): An open source time tracker for the terminal.
 * [Hulksmash](https://github.com/macghriogair/hulksmash): Console tool to scaffold an empty PHP project.
+* [HydePHP](https://github.com/hydephp/hyde): Static Site Generator with the power of Laravel and the simplicity of Markdown. Built with Laravel Zero.
 * [Lara Lambda](https://github.com/nsouto/lara-lambda): Laravel, Lumen or LaravelZero ready to run on AWS Lambda.
 * [Laravel Craftsman](https://github.com/mikeerickson/laravel-craftsman): Laravel Artisan on Steroids. CLI for crafting common assets with extended options and customizable templates.
 * [zerohttpserver](https://github.com/marcocantugea/zerohttpserver): LaravelZero with thin HTTP server for REST APIs or web service
