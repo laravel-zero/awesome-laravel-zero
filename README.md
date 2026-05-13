@@ -58,6 +58,7 @@ Have you found something that make Laravel Zero more awesome? Make a PR and add 
 * [Anonfiles CLI](https://github.com/albinvar/anonfiles-cli): An awesome console application which can upload and download files using [Anonfiles](anonfiles.com) api directly from your terminal.
 * [Music DL](https://github.com/guanguans/music-dl): Music Searcher and Downloader.
 * [AI Commit](https://github.com/guanguans/ai-commit): Automagically generate conventional commit messages with AI.
+* [Laravel Starter](https://github.com/abdessamadbettal/laravel-starter): Simplify your Laravel development with Laravel Starter! Build faster and smarter with tools like Inertia.js, Vue, multi-language support, SEO optimization, and Filament CMS - all ready to use.
 
 ## Articles and Tutorials
 
